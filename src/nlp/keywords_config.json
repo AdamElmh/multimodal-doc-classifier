@@ -1,0 +1,8 @@
+{
+    "attestation_travail": ["attestation", "travail", "employé", "cnss", "immatriculé", "qualité", "certifie"],
+    "bulletin_de_paie": ["bulletin", "paie", "salaire", "brut", "net", "ir", "retenues", "cotisations", "indemnité"],
+    "factures_eau_electricite": ["facture", "kwh", "m3", "consommation", "tranche", "redevance", "redal", "onee", "lydec", "index"],
+    "relevés_bancaires": ["relevé", "compte", "rib", "débit", "crédit", "solde", "virement", "extrait", "bancaire"],
+    "CIN_Recto": ["royaume", "maroc", "nationale", "identité", "carte", "valable", "née"],
+    "CIN_Verso": ["nom", "prénom", "adresse", "fils", "fille", "<<<<"]
+}
